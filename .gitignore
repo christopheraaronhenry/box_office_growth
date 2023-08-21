@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# ignore large files
+data/im.db
+
 # C extensions
 *.so
 
