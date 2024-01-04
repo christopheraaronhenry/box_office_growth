@@ -34,18 +34,28 @@ Key results highlight that:
 
 
 ### Drama, Comedy, Action, and Adventure films were the most popular
+
+They had the most total reviews, suggesting high viewer engagements for these genres.
 ![graph2](./images/counts_by_genre.png)
 
 ### Ratings trend upwards over years for Drama and Comedy films.
+
+Average ratings were high for these genres, and increased in recent years (evidenced by the regression line fits in red).
 ![graph3](./images/ratings_by_year.png)
 
 ### Drama and Comedy films were the most profitable.
+
+Total summed domestic profits were far higher for these two genres compared to Action and Adventure films.
 ![graph3](./images/total_domestic_profits_by_genre.png)
 
 ### Drama and Comedy films also yielded the best ROI.
+
+The return on investment (ROI = (domestic_profits / budget)) had large variability across films. But the distributions of ROI were higher for Drama and Comedy genres, indicating more profitability on average, as shown by the quartile distributions for each genre.
 ![graph4](./images/roi_dist_by_genre.png)
 
-### Mid-sized budget films in these genres had the highest ROI.
+### Mid-sized budget films in Drama and Comedy genres had the highest ROI.
+
+The x-axis breaks down films in these genres by budget quartiles (cheap to expensive). Films with moderately-sized  budgets had higher ROI distributions than the cheapest or most expensive tiered films.
 ![graph5](./images/roi_dist_by_budget_quartile.png)
 
 
