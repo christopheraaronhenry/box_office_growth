@@ -1,7 +1,7 @@
 # Box Office Growth
 
 **Authors**: Christopher Henry
-
+**Date**: 1/12/24
 
 ## Overview
 
@@ -31,7 +31,7 @@ Key results highlight that:
 * Drama and Comedy films have high ratings, trending upwards.
 * These two genres also yielded the greatest total profits and ROI.
 * Mid-sized film budgets in these two genres yielded better ROI than the cheapest or costliest films.
-
+* Films with longer runtimes (> 100 minutes) had higher ROI than films with runtimes below the median (89-99 minutes).
 
 ### Drama, Comedy, Action, and Adventure films were the most popular
 
@@ -58,18 +58,21 @@ The return on investment (ROI = (domestic_profits / budget)) had large variabili
 The x-axis breaks down films in these genres by budget quartiles (cheap to expensive). Films with moderately-sized  budgets had higher ROI distributions than the cheapest or most expensive tiered films.
 ![graph5](./images/roi_dist_by_budget_quartile.png)
 
+### Longer runtime films had higher ROI than moderate length films.
+
+The x-axis breaks down films into quartiles of the runtime distribution (in minutes, from short to long). Films with runtimes > 100 minutes had higher ROI distributions than those films with runtimes just below the median (89-99 minutes).
+![graph6](./images/roi_dist_by_runtime_quartile.png)
+
 
 ## Conclusions
 
-These analyses suggest four main recommendations for the company as it enters the commercial film production market.
+These analyses suggest three main recommendations for the company as it enters the commercial film production market.
 
-* They should consider producing films from 4 genres that have the greatest popularity: Drama, Comedy, Action, and Adventure.
+* They should consider producing films from Drama and Comedy genres. They have high average ratings, which are trending upward in recent years. They also yield the greatest total profits and ROI across popular genres.
 
-* Among these, Drama and Comedy seem the most promising, as they have high average ratings, which are trending upward in recent years.
+* Within Drama and Comedy genres, the company should focus on producing mid-size budget films, as these yield the greatest ROI.
 
-* To maximize revenue, producing Drama and Comedy films will yield the greatest total profits and ROI.
-
-* Within those genres, the company should focus on producing mid-size budget films, as these yield the greatest ROI.
+* The company should focus on producing films with runtimes > 100 minutes, as these yield higher ROIs than films with runtimes just below 100 minutes.
 
 ## For More Information
 
