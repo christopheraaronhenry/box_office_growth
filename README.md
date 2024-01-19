@@ -78,7 +78,7 @@ These analyses suggest three main recommendations for the company as it enters t
 
 Please review our full analysis in [our Jupyter Notebook](./box_office_growth.ipynb) or our [presentation](./presentation.pdf).
 
-For any additional questions, please contact **Christopher Henry (chenrynyc@gmail.com)**
+For any additional questions, please contact.
 
 ## Repository Structure
 
